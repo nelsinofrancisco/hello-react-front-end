@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# HELLO WORLD REACT-RAILS FRONT-END APP
+# Hello World REACT-RAILS FRONT-END APP
 
 This is a simple study project, Here I'm creating a rails API to provide data to a front-end app!
 
